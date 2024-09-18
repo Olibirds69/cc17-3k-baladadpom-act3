@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DiceRoll" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Set the background color using a custom attribute -->
+        <item name="android:colorBackground">#FF5722</item> <!-- Example color: Deep Orange -->
+    </style>
+</resources>
